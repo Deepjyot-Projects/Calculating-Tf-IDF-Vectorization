@@ -1,2 +1,1 @@
-# NLP-Learning
-This repo I've created to learn NLP.
+# TF-IDf vectorization
